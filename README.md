@@ -17,3 +17,4 @@ Open a pull request on GitHub.
 ## Contact Information
 GitHub: https://github.com/rish-for-u
 Email: rishubansh5@gmail.com
+Linkedln: linkedin.com/in/rishu-kumar-ngpa
